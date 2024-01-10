@@ -13,6 +13,10 @@ Services include:
 - 💻 Creating custom scripts/resources
 - 🗺️ Basic CodeWalker Mapping (Create/Edit ymaps/objects/textures etc)
 
+### Tebex
+
+Store: https://rj-scripts.tebex.io/
+
 ### Contact
 
 Discord: rjscripts
