@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a dedicated FiveM developer who began my journey in 2021. Since then, I've fully immersed myself in the vibrant world of FiveM servers and development. Proficient in languages such as Lua, HTML, CSS, and JavaScript, I'm committed to refining my skills and broadening my expertise. I'm enthusiastic about contributing my talents and collaborating with like-minded individuals and willing to work for free to gain valuable experience and expand my knowledge within the realm of FiveM development.
-
-**Currently seeking to contribute and collaborate with an established QBCore server**
+I'm a dedicated FiveM developer who began my journey in 2020. Since then, I've fully immersed myself in the vibrant world of FiveM servers and development. Proficient in languages such as Lua, HTML, CSS, and JavaScript, I'm committed to refining my skills and broadening my expertise. I'm enthusiastic about contributing my talents and collaborating with like-minded individuals to expand my knowledge within the realm of FiveM development.
 
 Services include:
 
